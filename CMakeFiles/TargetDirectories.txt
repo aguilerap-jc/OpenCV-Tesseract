@@ -1,0 +1,1 @@
+/home/aguilerapjc/JC/OpenCV Programs/CMakeProjects/CMakeTessOpenCV1/CMakeFiles/CMakeTessOpenCV1.dir
